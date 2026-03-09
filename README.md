@@ -8,7 +8,9 @@ This repository provides the supplementary material associated with the systemat
 - `data/raw/data_extraction.csv`: CSV export of the extraction matrix for easier reuse.
 - `data/derived/included_studies_list.csv`: cleaned list of the 34 extracted studies with core metadata.
 - `docs/review_protocol_summary.md`: concise summary of the protocol, PRISMA flow, and quality-assessment rule.
-- `figures/corpus_evidence_maps.png`: evidence map used in the manuscript.
+- `docs/figure_catalog.md`: index of the generated figures.
+- `figures/`: visual summaries generated from the extraction matrix.
+- `scripts/generate_all_figures.py`: reproducible script that regenerates the figure set.
 
 ## Review Flow Used in the Manuscript
 
