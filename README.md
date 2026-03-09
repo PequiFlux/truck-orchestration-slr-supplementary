@@ -15,6 +15,7 @@ This repository provides the supplementary material associated with the systemat
 - `docs/quality_assessment_note.md`: transparency note about the currently recoverable QA data.
 - `docs/figure_catalog.md`: index of the generated figures.
 - `figures/`: visual summaries generated from the extraction matrix.
+- `figures/prisma_flow_diagram_tikz.tex`: native LaTeX/TikZ source for the PRISMA flow diagram.
 - `scripts/generate_all_figures.py`: reproducible script that regenerates the figure set.
 - `scripts/generate_prisma_diagram.py`: reproducible script for the PRISMA flow diagram.
 - `scripts/build_reference_exports.py`: script that exports the reference list files.
