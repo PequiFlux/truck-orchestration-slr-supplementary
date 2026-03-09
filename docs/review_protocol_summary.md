@@ -11,6 +11,22 @@ The review covers computational methods for truck and physical resource orchestr
 - Scopus
 - Backward snowballing via Zotero
 
+## Core Boolean Query
+
+```text
+("agribusiness logistics" OR "cross-docking" OR "dock doors" OR "gates" OR "terminal logistics" OR "truck appointment system" OR "truck arrivals" OR "yard management" OR "yard trucks")
+AND
+("dynamic scheduling" OR "heuristic" OR "machine learning" OR "optimization" OR "predictive-reactive scheduling" OR "real-time scheduling" OR "reinforcement learning" OR "resource allocation" OR "simulation")
+AND
+("bottleneck reduction" OR "congestion reduction" OR "delay reduction" OR "dock utilization improvement" OR "makespan reduction" OR "operational cost reduction" OR "queue reduction" OR "waiting time reduction")
+```
+
+Field-scope note:
+
+- The local exported materials preserve the exact common Boolean query above.
+- They do not preserve a source-by-source snapshot of platform-specific field tags.
+- The intended retrieval scope was aligned with title/abstract/keyword-oriented search.
+
 ## Search Date
 
 - February 27, 2026

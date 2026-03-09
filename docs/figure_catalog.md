@@ -15,3 +15,4 @@ This catalog lists the figures generated from the extraction matrix.
 - `11_artifact_vs_uncertainty_heatmap.png` / `11_artifact_vs_uncertainty_heatmap.pdf`: Artifact Vs Uncertainty Heatmap.
 - `12_environment_vs_painpoint_heatmap.png` / `12_environment_vs_painpoint_heatmap.pdf`: Environment Vs Painpoint Heatmap.
 - `13_dynamic_vs_validation_heatmap.png` / `13_dynamic_vs_validation_heatmap.pdf`: Dynamic Vs Validation Heatmap.
+- `prisma_flow_diagram.png` / `prisma_flow_diagram.pdf`: Visual PRISMA flow diagram for identification, screening, snowballing, quality assessment, and final inclusion.
